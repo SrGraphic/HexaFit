@@ -23,7 +23,7 @@ Su objetivo es facilitar la gestión mediante una plataforma **sencilla, segura 
     <img src="https://img.shields.io/badge/Manual-Ver_Manual_De_Uso-4DBA23?style=for-the-badge&logo=google-docs" />
   </a>
   <br><br>
-  <a href="https://srgraphic.github.io/Hexa/">
+  <a href="https://srgraphic.github.io/HexaFit/">
     <img src="https://img.shields.io/badge/Web App-Lanzar_app_demo-0A66C2?style=for-the-badge&logo=google-chrome" />
   </a>
 
