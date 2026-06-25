@@ -3,7 +3,7 @@
 <img width="1500" height="130" alt="image" src="https://github.com/user-attachments/assets/ce26e92f-64cb-4db5-8d20-3053fbcbae88" /><br>
 
 
-**HEXA FIT** es una aplicación web rama de HEXA. Unicamente para dispositivos moviles**.  
+**HEXA FIT** es una aplicación web rama de HEXA. Rutinas, ejercicios combinados... Unicamente para dispositivos moviles.  
 Su objetivo es facilitar la gestión mediante una plataforma **sencilla, segura y accesible desde cualquier navegador**.
 
 ---
