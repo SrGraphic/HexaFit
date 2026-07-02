@@ -15,7 +15,7 @@ Su objetivo es facilitar la gestión mediante una plataforma **sencilla, segura 
 
 ### 🔗 Enlaces útiles
 
-  <a href="#">
+  <a href="https://github.com/SrGraphic/HexaFit/blob/main/CHANGELOG.md">
     <img src="https://img.shields.io/badge/Changelog-Historial_de_versiones-6f42c1?style=for-the-badge&logo=read-the-docs" />
   </a>
   <br><br>
