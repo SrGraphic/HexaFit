@@ -1,4 +1,4 @@
-# CHANGELOG – Hexa
+# CHANGELOG – HexaFIT
 
 > Historial oficial de versiones del proyecto **Hexa FIT**.  
 > Este documento recoge todas las modificaciones relevantes realizadas en cada versión, incluyendo:
@@ -9,10 +9,13 @@
 > 
 <br>
 
-## v0.2 – 02/07/2026
+## v0.1.4 – 03/07/2026
 
  | Detalle |
  |---------|
+ Correccion de errores
+ Nueva página de registro de usuarios
+ Estilos de la página de registro
 
 ---
 
