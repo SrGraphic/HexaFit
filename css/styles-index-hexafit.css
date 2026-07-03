@@ -9,6 +9,7 @@
 
  body {
      background-color: #111111;
+     ;
  }
 
  /* == HEADER == */
@@ -21,7 +22,7 @@
      transform: translateY(-50px);
      animation: slideDown 1s ease-out forwards;
      animation-delay: 0.3s;
-     width: 90px;
+     width: 80px;
      margin-bottom: 20px;
  }
 
@@ -155,6 +156,18 @@
 
  button:hover {
      background-color: #6ef142;
+ }
+
+ .link-registro {
+     text-underline-offset: 4px;
+     text-decoration-color: #9a9a9a
+ }
+
+ .link-registro p {
+     color: #9a9a9a;
+     font-family: "Roboto", sans-serif;
+     font-size: 14px;
+     margin-top: 12px;
  }
 
  .version-pg {
